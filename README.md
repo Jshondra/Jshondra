@@ -5,6 +5,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jshondra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 👀 I’m interested in Machine learning
+
 🌱 I’m currently learning Python
 
 ## 42 Projects:
